@@ -4,6 +4,6 @@ El objetivo de este trabajo es adquiri las bases para el desarrollo de software 
 ## Integrantes
 Nombre | Código | Posición
 -------|--------|---------
-Daniel Andrés Caicedo | 1927033 | P2
+Daniel Andrés Caicedo | 1927033 | P1
 Camila Sánchez Florian | 1841205 | P2
 Dilan Joel Bergaño Caicedo | 1925763 | P3
